@@ -1,0 +1,164 @@
+
+/* .header-container {
+    border-top: 50px solid #693034;
+} */
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav a {
+    display: table;
+    margin-bottom: 5px;
+    padding: 15px 0;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: white;
+    background: #3F0203;
+}
+
+.searchBox{
+    width: 500px;
+    margin-right: -4px;
+}
+#d{
+	color: #FBF5FB;
+    text-align: center;
+    font-size: 2.3em;
+    font-style: italic;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+#contact{
+	color: #FBF5FB;
+    text-align: center;
+    font-size: 2.3em;
+    font-style: italic;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #02205E;
+    color: white;
+}
+
+.fa-github {
+    background: #E0E4EA;
+    color: #0B0404;
+}
+
+.fa-bitbucket {
+    background: #0E52E3;
+    color: white;
+}
+.name{
+	color:#E7DADA;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.email{
+    color:#CEBFBF;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.subject{
+    color:#E2D0D0;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.msg{
+    color:#E8D7D7;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.submit{
+    color:#1C1919;	
+    text-align: center;
+    font-stretch: 20;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    
+}
+
+.clearfix {
+    *zoom: 0.5;
+}
+
+#n{
+	
+		color: #198E26;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
+
+#e{
+	
+		color: #13802C;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
+
+#sub{
+	
+		color: #138950;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
+
+#m{
+	
+		color: #13802C;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}

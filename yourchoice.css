@@ -1,0 +1,109 @@
+.mainBody {
+    background-image: url("b1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .header-container {
+    border-top: 20px solid #E96C73;
+} */
+
+nav a {
+    display: table;
+    margin-bottom: 5px;
+    padding: 15px 0;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: white;
+    background: #3F0203;
+}
+
+.searchBox{
+    width: 520px;
+    margin-right: 5px;
+}
+#mychoice{
+	color: #198E26;
+    text-align: center;
+    font-size: 2.3em;
+    font-style: italic;
+    padding-top: 50px;
+    padding-right: 30px;
+	
+}
+.sellingPriceContent{
+    color:#CEBFBF;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.costPriceContent{
+    color:#E2D0D0;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.calculatePriceContent{
+    color:#210E0E;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.profitContent{
+    color:#D4C0C0;	
+	text-align: center;
+	font-size: 1.3em;
+	font-weight: bold;
+
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix {
+    *zoom: 0.5;
+}
+
+#s{
+	
+		color: maroon;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
+
+#c{
+	
+		color: maroon;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
+
+#cal{
+	
+		color: maroon;
+		text-align: left;
+		font-size: 0.7em;
+		font-style: italic;
+		padding-top: 50px;
+		padding-right: 30px;
+
+}
